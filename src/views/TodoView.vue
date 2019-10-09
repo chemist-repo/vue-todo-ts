@@ -8,6 +8,7 @@
       <input
         class="text-input"
         type="text"
+        placeholder="What needs to be done?"
         v-model="text"
         autofocus
       />
